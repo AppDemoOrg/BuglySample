@@ -8,11 +8,9 @@ import android.widget.Button;
 import com.tencent.bugly.crashreport.CrashReport;
 
 /**
- * 简单测试crash
- * 注：如想查看crash日志，需先到http://bugly.qq.com/注册app，并配置appID，之后就可以在bugly查看到日志啦
- *
- * @author wenjiewu
- * @date 2016/5/23
+ * @描述：     @简单测试crash - 注：如想查看crash日志，需先到http://bugly.qq.com/注册app，并配置appID，之后就可以在bugly查看到日志啦
+ * @作者：     @黄卫旗
+ * @创建时间： @21/05/2018
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

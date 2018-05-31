@@ -5,7 +5,9 @@ import android.app.Application;
 import com.tencent.bugly.crashreport.CrashReport;
 
 /**
- * Created by wenjiewu on 2016/5/23.
+ * @描述：     @MyApplication
+ * @作者：     @黄卫旗
+ * @创建时间： @21/05/2018
  */
 public class MyApplication extends Application {
     @Override
