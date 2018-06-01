@@ -1,1 +1,1 @@
-include ':app', ':upgrade', ':hotfixeasy'
+include ':app', ':upgrade', ':hotfixeasy', ':hotfix'
